@@ -17,6 +17,7 @@ Si, así es, esta es tu oportunidad de no tener esa asignatura perdida en 127 fo
 No dejes la oportunidad de compartir tu duro trabajo creando apuntes y compartelos con los compañeros. Además, podrás a su vez mejorar en tu estudio con los mejores apuntes de la comunidad. ¿Quieres ser el número uno y ser recordado por ayudar a aprobar a generaciones enteras?
 
 ## Observa de un vistazo como de agetreada tienes la semana
+Entra en la vista de calendario y mira lo que te depara la semana. Podrás ver el calendario de una agenda, dos, o de las que quieras a la vez. Podrás saber fácilmente a que agenda pertenece cada evento por el color de cada agenda así como descubrir que huecos tienes para picar algo entre clase de violín y laboratorio de orgánica.
 
 ## Recibe notificaciones para que el trabajo no se te acumule
 Empezamos el cuatrimetre bien, que tranquilito todo... pero... ¡Semana de exámenes! De pronto tienes que estudiar para 7 exámenes, hacer 16 prácticas y 32 ejercicios para entregar en dos días. Es hora de pensar que asignaturas dejarse para septiembre... En cambio, si recibes semana a semana avisos del cumplimiento de las fechas de trabajos, podrás ir haciéndolos poco a poco, y de este modo solo te tendrás que preocupar de estudiar para los exámenes y usar tu tiempo libre con los colegas, ¡Que chollo!
