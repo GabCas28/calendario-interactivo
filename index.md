@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# ¡Bienvenido a Calendario Interactivo!
 
-You can use the [editor on GitHub](https://github.com/GabCas28/calendario-interactivo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta app podrás tener todo bien organizado y no olvidarte de nada, asignaturas de la carrera, días de entreno en el gimnasio, tareas domésticas, ¡y todo lo que se te ocurra!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Home Banner](./img/home-banner.png)
 
-### Markdown
+## Crea agendas y llenalas de eventos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Añade archivos a las agendas para tenerlos siempre presentes 
+Si, así es, esta es tu oportunidad de no tener esa asignatura perdida en 127 folios sin orden repartidos entre tu cajón, tu escritorio y la papelera. Tan solo adjuntalos y ya siempre estará disponibles y ordenados. 
 
-```markdown
-Syntax highlighted code block
+## Comparte conocimiento y puntúalo
+No dejes la oportunidad de compartir tu duro trabajo creando apuntes y compartelos con los compañeros. Además, podrás a su vez mejorar en tu estudio con los mejores apuntes de la comunidad. ¿Quieres ser el número uno y ser recordado por ayudar a aprobar a generaciones enteras?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabCas28/calendario-interactivo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Observa de un vistazo como de agetreada tienes la semana
