@@ -2,6 +2,8 @@
 
 En esta app podrás tener todo bien organizado y no olvidarte de nada, asignaturas de la carrera, días de entreno en el gimnasio, tareas domésticas, ¡y todo lo que se te ocurra!
 
+![Home Banner](./img/home-banner.png)
+
 ## Crea agendas y llénalas de eventos
 Crear agendas personalizada para cada cosa, de este modo puedes decir adiós a las 5 agendas físicas que tienes en tu casa y que, cuando necesitas buscar algo, nunca sabes donde lo escribiste (ve pidiendo cita de nuevo al dentista que se te ha pasado...). En un vistazo podrás consultar las asignaturas del día, el club de lectura, ver hasta la lista de la compra en la agenda de tareas de casa. Si no haces la labadora la semana que te tocaba no le eches la culpa a nadie más que a tí, que ya tienes una app donde ver todas tus tareas.
 
