@@ -1,17 +1,10 @@
-
 # Setup
 title: Calendario Interactivo
-description: >-
-  El calendario que andabas buscando
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
+tagline: El calendario que andabas buscando
 
 # About/contact
 author:
   name:       Gabriel Castro, Carlos Sánchez y Manuel Orantes
-  url:        http://yourhomepage.com 
 
 # Gems
 gems:
@@ -19,3 +12,5 @@ gems:
 
 #Others
 markdown: kramdown
+theme: jekyll-theme-cayman
+description: El calendario que andabas buscando
