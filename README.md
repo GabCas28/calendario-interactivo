@@ -1,69 +1,36 @@
-# Jekyll Cayman theme
+---
+layout: page
+title: {{ site.name }}
+---
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+# ¡Bienvenido a Calendario Interactivo!
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+En esta app podrás tener todo bien organizado y no olvidarte de nada, asignaturas de la carrera, días de entreno en el gimnasio, tareas domésticas, ¡y todo lo que se te ocurra!
 
-You can preview the theme at https://jasonlong.github.io/cayman-theme or with real content at https://jasonlong.github.io/geo_pattern.
+![Home Banner](./img/home-banner.png)
 
-![](https://cl.ly/image/1T3r3d18311V/content)
+## Crea agendas y llénalas de eventos
+Crear agendas personalizada para cada cosa, de este modo puedes decir adiós a las 5 agendas físicas que tienes en tu casa y que, cuando necesitas buscar algo, nunca sabes donde lo escribiste (ve pidiendo cita de nuevo al dentista que se te ha pasado...). En un vistazo podrás consultar las asignaturas del día, el club de lectura, ver hasta la lista de la compra en la agenda de tareas de casa. Si no haces la labadora la semana que te tocaba no le eches la culpa a nadie más que a tí, que ya tienes una app donde ver todas tus tareas.
 
-# How to use it?
+![Agenda](./img/agenda.png)
 
-Download the theme @ https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+## Comparte agendas con tus amigos
+¿Tienes un club de parchís y siempre se te olvida que día habeís quedado para contarte veinte? Haz una agenda y compártela con todos los miembros, de ese modo todos estareis informados de qué día a que hora es la reunión. Además, será muy fácil cancelar un evento y que todos se enteren a tiempo.
 
-Unzip it and use it as a regular jekyll folder.
+![Share](./img/share.png)
 
-```
-$ unzip jekyll-cayman-theme-master.zip
-```
+## Añade archivos a las agendas para tenerlos siempre presentes 
+Si, así es, esta es tu oportunidad de no tener esa asignatura perdida en 127 folios sin orden repartidos entre tu cajón, tu escritorio y la papelera. Tan solo adjuntalos y ya siempre estará disponibles y ordenados. 
 
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
+![Add Files](./img/add-apuntes.png)
 
-Get the required gems
-```
-$ bundle install
-```
+## Comparte conocimiento y puntúalo
+No dejes la oportunidad de compartir tu duro trabajo creando apuntes y compartelos con los compañeros. Además, podrás a su vez mejorar en tu estudio con los mejores apuntes de la comunidad. ¿Quieres ser el número uno y ser recordado por ayudar a aprobar a generaciones enteras?
 
-Use it!
+## Observa de un vistazo como de agetreada tienes la semana
+Entra en la vista de calendario y mira lo que te depara la semana. Podrás ver el calendario de una agenda, dos, o de las que quieras a la vez. Podrás saber fácilmente a que agenda pertenece cada evento por el color de cada agenda así como descubrir que huecos tienes para picar algo entre clase de violín y laboratorio de orgánica.
 
-```
-$ jekyll serve
-```
+![Calendar](./img/calendar.png)
 
-For more details read about [Jekyll][1] on its web page.
-
-# Setup
-
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
-
-
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-cayman-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: https://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: https://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+## Recibe notificaciones para que el trabajo no se te acumule
+Empezamos el cuatrimetre bien, que tranquilito todo... pero... ¡Semana de exámenes! De pronto tienes que estudiar para 7 exámenes, hacer 16 prácticas y 32 ejercicios para entregar en dos días. Es hora de pensar que asignaturas dejarse para septiembre... En cambio, si recibes semana a semana avisos del cumplimiento de las fechas de trabajos, podrás ir haciéndolos poco a poco, y de este modo solo te tendrás que preocupar de estudiar para los exámenes y usar tu tiempo libre con los colegas, ¡Que chollo!
