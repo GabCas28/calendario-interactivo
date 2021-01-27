@@ -1,5 +1,8 @@
+
 # Setup
-title:        Project or Site name
+title: Calendario Interactivo
+description: >-
+  El calendario que andabas buscando
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
@@ -7,7 +10,7 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       Gabriel Castro, Carlos Sánchez y Manuel Orantes
   url:        http://yourhomepage.com 
 
 # Gems
