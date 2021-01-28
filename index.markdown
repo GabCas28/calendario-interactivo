@@ -34,3 +34,15 @@ Entra en la vista de calendario y mira lo que te depara la semana. Podrás ver e
 
 ## Recibe notificaciones para que el trabajo no se te acumule
 Empezamos el cuatrimetre bien, que tranquilito todo... pero... ¡Semana de exámenes! De pronto tienes que estudiar para 7 exámenes, hacer 16 prácticas y 32 ejercicios para entregar en dos días. Es hora de pensar que asignaturas dejarse para septiembre... En cambio, si recibes semana a semana avisos del cumplimiento de las fechas de trabajos, podrás ir haciéndolos poco a poco, y de este modo solo te tendrás que preocupar de estudiar para los exámenes y usar tu tiempo libre con los colegas, ¡Que chollo!
+
+
+## Archivos de las prácticas
+
+[Práctica 1](./Practicas/Practica1)
+
+[Práctica 2](./Practicas/Practica2)
+
+[Práctica 3](./Practicas/Practica3)
+
+- [Práctica 3a](./Practicas/Practica3/Practica3a)
+- [Práctica 3b](./Practicas/Practica3/Practica3b)
