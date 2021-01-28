@@ -54,7 +54,9 @@ Empezamos el cuatrimetre bien, que tranquilito todo... pero... ¡Semana de exám
 - [Práctica 2/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica2)
 
 - [Práctica 3/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica3)
-    - [Práctica 3a/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica3/Practica3a)
-    - [Práctica 3b/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica3/Practica3b)
+
+  - [Práctica 3a/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica3/Practica3a)
+
+  - [Práctica 3b/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica3/Practica3b)
 
 - [Práctica 4/](https://github.com/GabCas28/calendario-interactivo/tree/main/Practicas/Practica4)
